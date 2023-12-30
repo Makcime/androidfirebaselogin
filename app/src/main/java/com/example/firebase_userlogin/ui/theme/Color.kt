@@ -1,4 +1,4 @@
-package com.example.androidfirebaselogin.ui.theme
+package com.example.firebase_userlogin.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

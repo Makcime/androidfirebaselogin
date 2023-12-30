@@ -1,4 +1,4 @@
-package com.example.androidfirebaselogin.ui.theme
+package com.example.firebase_userlogin.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

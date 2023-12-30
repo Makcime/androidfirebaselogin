@@ -1,4 +1,4 @@
-package com.example.androidfirebaselogin
+package com.example.firebase_userlogin
 
 import org.junit.Test
 

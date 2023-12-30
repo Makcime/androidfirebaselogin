@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Android Firebase Login"
+rootProject.name = "Firebase-userlogin"
 include(":app")
  

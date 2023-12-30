@@ -1,4 +1,4 @@
-package com.example.androidfirebaselogin.ui.theme
+package com.example.firebase_userlogin.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun AndroidFirebaseLoginTheme(
+fun FirebaseuserloginTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
